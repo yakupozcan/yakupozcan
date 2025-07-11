@@ -63,9 +63,9 @@
 ## ☕ Let's Connect
 
 ---
-![github contribution grid snake animation](https://raw.githubusercontent.com/yyle88/yyle88/snake/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/yakupozcan/yakupozcan/snake/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/yyle88/yyle88/snake/github-contribution-grid-snake.svg#gh-light-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/yakupozcan/yakupozcan/snake/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 
 <p align="center">
