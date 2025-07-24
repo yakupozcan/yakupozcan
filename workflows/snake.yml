@@ -1,0 +1,24 @@
+name: Generate Snake Animation
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # her gün çalışır
+  workflow_dispatch: # elle de başlatılabilir
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    name: Generate snake.svg
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Generate snake animation
+        uses: Platane/snk@v3
+        with:
+          github_user_name: yakupozcan
+          outputs: |
+            ./snake/github-contribution-grid-snake.svg
+            ./snake/github-contribution-grid-snake-dark.svg
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
