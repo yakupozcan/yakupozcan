@@ -2,12 +2,17 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Her gün saat 00:00'da çalışır
-  workflow_dispatch:     # Elle de çalıştırılabilir
+    - cron: "0 0 * * *" # Her gün gece yarısı çalışır
+  workflow_dispatch:      # Elle de tetiklenebilmesini sağlar
 
 jobs:
   generate:
     runs-on: ubuntu-latest
+
+    # ADIM 1: GEREKLİ İZİNLERİ EKLEYİN
+    permissions:
+      contents: write
+
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
@@ -15,16 +20,18 @@ jobs:
       - name: Generate snake animation
         uses: Platane/snk@v3
         with:
-          github_user_name: yakupozcan
+          github_user_name: ${{ github.repository_owner }} # Otomatik olarak kullanıcı adını alır, daha esnektir
           outputs: |
             dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
             dist/github-contribution-grid-snake-progress.svg
-          color_snake: "#FFD700" # Altın sarısı yılan
-          color_dots: "#444444, #666666, #888888, #CCCCCC, #EEEEEE" # Nokta tonlamaları
-          snake_tail_length: 20
-          animation_duration: 6
-          svg_out_path: dist/
+
+          # ADIM 2: İSTEDİĞİNİZ RENKLERİ BURADA BELİRTİN
+          color_snake: "#FFD700" # Altın Sarısı
+          color_dots: "#d6d6d6,#b8b8b8,#9a9a9a,#7c7c7c,#5e5e5e" # Örnek nokta renkleri
+
+        # ADIM 3: BU SATIRI KALDIRIN
+        # svg_out_path: dist/ # 'outputs' kullanıldığı için bu satır gereksizdir
 
       - name: Push generated files to output branch
         uses: crazy-max/ghaction-github-pages@v4
