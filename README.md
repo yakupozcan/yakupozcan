@@ -1,79 +1,50 @@
-<div align="center">
-
-<!-- ASCII LOGO: KENDİNE GÖRE DOLDUR -->
-<pre>
+<div align="left">
+  
+<pre align="left">         _nnnn_                                   .                         o      +
+        dGGGGMMb     ,""""""""""""""".                           '   '                       '
+       @p~qp~~qMb    | sudo rm -rf / |                            '         *         +
+       M|@||@) M|   _;...............'           *             .         .                '
+       @,----.JM| -'               o     o'        +                       .'.
+      JS^\__/  qKL     +                    *                 +                           '
+     dZP        qKRb  +                                     | +       .                            
+    dZP          qKKb     .                             .  . -o-                                    +
+   RX7            SMMb                  .                .  ~~ |     o            .:'               o
+   HZM            MMMM                    o                     o             _.::'
+   FqM            MMMM           . *                .                     .  (_.'                  +
+ __| ".        |\dS"qML          '                         |  .          .-.   |
+ |    `.       | `' \Zq       o         .                - o -            ) )- o -      .
+_)      \.___.,|     .'                                    |             '-´ . |                       
+\____   )MMMMMM|   .'       o                        '                           .                o
+     `-'       `--' hjm                       o     .                                            +
 </pre>
+  ---
+  ## Tools And Skills
 
-# 👋 Hi there, I'm Yakup
+  <p align="center">
+    <a><img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust"/></a>
+    <a><img src="https://img.shields.io/badge/C++-00599c?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/></a>
+    <a><img src="https://img.shields.io/badge/Java-f46a54?style=for-the-badge&logo=java&logoColor=white" alt="Java"/></a>
+    <a><img src="https://img.shields.io/badge/Python-3776ab?style=for-the-badge&logo=python&logoColor=white" alt="Python"/></a>
+    <a><img src="https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript"/></a>
+    <a><img src="https://img.shields.io/badge/TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/></a>
+    <a><img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/></a>
+    <a><img src="https://img.shields.io/badge/HeroUI-000000?style=for-the-badge&logo=nextui&logoColor=white" alt="NextUI"/></a>
+    <a><img src="https://img.shields.io/badge/Node.Js-5fa04e?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/></a>
+    <a><img src="https://img.shields.io/badge/Django-092e20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/></a>
+    <a><img src="https://img.shields.io/badge/Cargo-024eff?style=for-the-badge&logo=rustdesk&logoColor=white" alt="Cargo"/></a>
+    <a><img src="https://img.shields.io/badge/Diesel-ea7100?style=for-the-badge&logo=diesel&logoColor=white" alt="Diesel"/></a>
+    <a><img src="https://img.shields.io/badge/MySql-4479a1?style=for-the-badge&logo=mysql&logoColor=white&logoSize=auto" alt="MySql"/></a>
+    <a><img src="https://img.shields.io/badge/SQLlite-003b57?style=for-the-badge&logo=sqllite&logoColor=white" alt="SQLlite"/></a>
+    <a><img src="https://img.shields.io/badge/Git-f05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/></a>
+    <a><img src="https://img.shields.io/badge/Docker-2496ed?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/></a>
+  </p>
+  
+  ---
+## GitHub Stats
 
-🎯 **Cross-platform developer** on a mission to create seamless, elegant, and accessible software experiences — with a side quest for gaming 🕹️
+  ![Stats](https://github-readme-stats.vercel.app/api?username=Ru1vly&show_icons=true&theme=default)
+![yılan (dark)](https://raw.githubusercontent.com/Ru1vly/Ru1vly/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
----
-
-## 🛠️ Tech Stack I Work With
-
-<p align="center">
-  <!-- Mobile & Cross-Platform -->
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/.NET_MAUI-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
-
-  <!-- Native Mobile -->
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSharp-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
-
-  <!-- Web -->
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-
-  <!-- Tools -->
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
-</p>
-
----
-
-## 🎮 Games I Actually Play
-
-<p align="center">
-  <img src="https://img.shields.io/badge/NFS%20Carbon-222222?style=for-the-badge&logo=need-for-speed&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Shotgun%20King-ff4545?style=for-the-badge&logo=chess&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Half%20Life%201-fca400?style=for-the-badge&logo=halflife&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Chess-000000?style=for-the-badge&logo=chess&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tetris-764abc?style=for-the-badge&logo=tetris&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Forza%20Horizon%204-d9008d?style=for-the-badge&logo=forza&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Minecraft-62b47a?style=for-the-badge&logo=minecraft&logoColor=white"/>
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yakupozcan&show_icons=true&theme=radical&hide=prs"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yakupozcan&layout=compact&theme=radical"/>
-</div>
-
----
-
-## ☕ Let's Connect
-
----
-![yılan (light)](https://raw.githubusercontent.com/yakupozcan/yakupozcan/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-![yılan (dark)](https://raw.githubusercontent.com/yakupozcan/yakupozcan/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-
-![progress snake](https://raw.githubusercontent.com/yakupozcan/yakupozcan/output/github-contribution-grid-snake-progress.svg)
+![progress snake](https://raw.githubusercontent.com/Ru1vly/Ru1vly/output/github-contribution-grid-snake-progress.svg)
 
 
-
-<p align="center">
-  <a href="mailto:ekrem7@techie.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/ekrem-yakup"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-
-</p>
-
-</div>
