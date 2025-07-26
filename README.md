@@ -43,7 +43,7 @@ _)      \.___.,|     .'                                    |             '-´ . 
 ## GitHub Stats
 
   ![Stats](https://github-readme-stats.vercel.app/api?username=Ru1vly&show_icons=true&theme=default)
-![yılan (dark)](https://raw.githubusercontent.com/yakupozcan/yakupozcan/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![yılan (dark)](https://raw.githubusercontent.com/Ru1vly/Ru1vly/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
-![progress snake](https://raw.githubusercontent.com/yakupozcan/yakupozcan/output/github-contribution-grid-snake-progress.svg)
+![progress snake](https://raw.githubusercontent.com/Ru1vly/Ru1vly/output/github-contribution-grid-snake-progress.svg)
 
