@@ -73,7 +73,7 @@
 
 </p>
 
-![yılan (light)](https://raw.githubusercontent.com/yakupozcan/yakupozcan/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![yılan (dark)](https://raw.githubusercontent.com/yakupozcan/yakupozcan/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 ![progress snake](https://raw.githubusercontent.com/yakupozcan/yakupozcan/output/github-contribution-grid-snake-progress.svg)
 
 </div>
