@@ -30,9 +30,7 @@
 
   <!-- Tools -->
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
+  
 </p>
 
 ---
@@ -62,11 +60,10 @@
 
 ## ☕ Let's Connect
 
----
-![yılan (light)](https://raw.githubusercontent.com/yakupozcan/yakupozcan/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-![yılan (dark)](https://raw.githubusercontent.com/yakupozcan/yakupozcan/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
-![progress snake](https://raw.githubusercontent.com/yakupozcan/yakupozcan/output/github-contribution-grid-snake-progress.svg)
+
+
+
 
 
 
@@ -75,5 +72,8 @@
   <a href="https://www.linkedin.com/in/ekrem-yakup"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 </p>
+---
+![yılan (light)](https://raw.githubusercontent.com/yakupozcan/yakupozcan/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![progress snake](https://raw.githubusercontent.com/yakupozcan/yakupozcan/output/github-contribution-grid-snake-progress.svg)
 
 </div>
