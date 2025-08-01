@@ -72,7 +72,7 @@
   <a href="https://www.linkedin.com/in/ekrem-yakup"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 </p>
----
+
 ![yılan (light)](https://raw.githubusercontent.com/yakupozcan/yakupozcan/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 ![progress snake](https://raw.githubusercontent.com/yakupozcan/yakupozcan/output/github-contribution-grid-snake-progress.svg)
 
