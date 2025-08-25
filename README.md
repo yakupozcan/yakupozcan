@@ -73,6 +73,6 @@
 
 </p>
 
-![yılan (dark)](https://raw.githubusercontent.com/yakupozcan/yakupozcan/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![yılan (dark)](https://raw.githubusercontent.com/rvoidex7/rvoidex7/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
 </div>
