@@ -4,7 +4,7 @@
 <pre>
 </pre>
 
-# 👋 Hi there, I'm Yakup
+# 👋 Hi there, I'm rvoidex7
 
 🎯 **Cross-platform developer** on a mission to create seamless, elegant, and accessible software experiences — with a side quest for gaming 🕹️
 
